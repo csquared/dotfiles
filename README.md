@@ -3,5 +3,5 @@
     > ./install.sh
 
 
-## tmux.conf
+## .tmux.conf
   makes my tmux act like screen
